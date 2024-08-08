@@ -94,6 +94,3 @@ By following these steps, you can ensure that your project remains in sync with 
 
 For further assistance, refer to the documentation of the tools and frameworks you are using, or contact the project maintainers.
 
----
-
-Feel free to customize this guide according to your project's specific needs and workflows.

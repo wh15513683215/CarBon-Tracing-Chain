@@ -1,29 +1,70 @@
 {
-    "Healthcare": [
+    "Industry": "Healthcare",
+    "Yearly Data": [
         {
             "Year": 2019,
-            "Average Carbon Emissions": 8500,
-            "Average Carbon Offsets": 2800
+            "Carbon Emissions": {
+                "Highest": 9000,
+                "Average": 8500,
+                "Lowest": 8000
+            },
+            "Carbon Offsets": {
+                "Highest": 3000,
+                "Average": 2800,
+                "Lowest": 2600
+            }
         },
         {
             "Year": 2020,
-            "Average Carbon Emissions": 8300,
-            "Average Carbon Offsets": 3000
+            "Carbon Emissions": {
+                "Highest": 8800,
+                "Average": 8300,
+                "Lowest": 7800
+            },
+            "Carbon Offsets": {
+                "Highest": 3200,
+                "Average": 3000,
+                "Lowest": 2800
+            }
         },
         {
             "Year": 2021,
-            "Average Carbon Emissions": 8100,
-            "Average Carbon Offsets": 3200
+            "Carbon Emissions": {
+                "Highest": 8600,
+                "Average": 8100,
+                "Lowest": 7600
+            },
+            "Carbon Offsets": {
+                "Highest": 3400,
+                "Average": 3200,
+                "Lowest": 3000
+            }
         },
         {
             "Year": 2022,
-            "Average Carbon Emissions": 7900,
-            "Average Carbon Offsets": 3400
+            "Carbon Emissions": {
+                "Highest": 8400,
+                "Average": 7900,
+                "Lowest": 7400
+            },
+            "Carbon Offsets": {
+                "Highest": 3600,
+                "Average": 3400,
+                "Lowest": 3200
+            }
         },
         {
             "Year": 2023,
-            "Average Carbon Emissions": 7700,
-            "Average Carbon Offsets": 3600
+            "Carbon Emissions": {
+                "Highest": 8200,
+                "Average": 7700,
+                "Lowest": 7200
+            },
+            "Carbon Offsets": {
+                "Highest": 3800,
+                "Average": 3600,
+                "Lowest": 3400
+            }
         }
     ]
 }

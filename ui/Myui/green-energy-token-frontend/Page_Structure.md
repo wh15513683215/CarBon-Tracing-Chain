@@ -1,4 +1,6 @@
-以下是项目中包含的所有组件的总结：
+以下是以 Markdown 格式呈现的项目组件总结：
+
+# 项目组件总结
 
 ## 主组件目录 (`src/components`)
 1. **Buy_Detail.js** - 处理购买详情的组件
@@ -36,6 +38,7 @@
 9. **useCertification.js** - 认证逻辑组件
 
 ## 子组件目录 (`src/components/Sub_*`)
+
 ### Sub_Buy_Detail
 1. **BuyDetailStyles.js** - 购买详情的样式表
 2. **useBuyTokens.js** - 使用购买代币的逻辑

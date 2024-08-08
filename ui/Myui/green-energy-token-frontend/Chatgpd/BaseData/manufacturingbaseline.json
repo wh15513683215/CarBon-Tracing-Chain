@@ -1,0 +1,70 @@
+{
+    "Industry": "Manufacturing",
+    "Yearly Data": [
+        {
+            "Year": 2019,
+            "Carbon Emissions": {
+                "Highest": 16500,
+                "Average": 16000,
+                "Lowest": 15500
+            },
+            "Carbon Offsets": {
+                "Highest": 4600,
+                "Average": 4500,
+                "Lowest": 4400
+            }
+        },
+        {
+            "Year": 2020,
+            "Carbon Emissions": {
+                "Highest": 16000,
+                "Average": 15500,
+                "Lowest": 15000
+            },
+            "Carbon Offsets": {
+                "Highest": 4900,
+                "Average": 4800,
+                "Lowest": 4700
+            }
+        },
+        {
+            "Year": 2021,
+            "Carbon Emissions": {
+                "Highest": 15500,
+                "Average": 15000,
+                "Lowest": 14500
+            },
+            "Carbon Offsets": {
+                "Highest": 5200,
+                "Average": 5100,
+                "Lowest": 5000
+            }
+        },
+        {
+            "Year": 2022,
+            "Carbon Emissions": {
+                "Highest": 15000,
+                "Average": 14500,
+                "Lowest": 14000
+            },
+            "Carbon Offsets": {
+                "Highest": 5500,
+                "Average": 5400,
+                "Lowest": 5300
+            }
+        },
+        {
+            "Year": 2023,
+            "Carbon Emissions": {
+                "Highest": 14500,
+                "Average": 14000,
+                "Lowest": 13500
+            },
+            "Carbon Offsets": {
+                "Highest": 5800,
+                "Average": 5700,
+                "Lowest": 5600
+            }
+        }
+    ]
+}

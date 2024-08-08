@@ -1,0 +1,70 @@
+{
+    "Industry": "Technology",
+    "Yearly Data": [
+        {
+            "Year": 2019,
+            "Carbon Emissions": {
+                "Highest": 5000,
+                "Average": 4700,
+                "Lowest": 4400
+            },
+            "Carbon Offsets": {
+                "Highest": 1900,
+                "Average": 1800,
+                "Lowest": 1700
+            }
+        },
+        {
+            "Year": 2020,
+            "Carbon Emissions": {
+                "Highest": 4800,
+                "Average": 4500,
+                "Lowest": 4200
+            },
+            "Carbon Offsets": {
+                "Highest": 2100,
+                "Average": 2000,
+                "Lowest": 1900
+            }
+        },
+        {
+            "Year": 2021,
+            "Carbon Emissions": {
+                "Highest": 4600,
+                "Average": 4300,
+                "Lowest": 4000
+            },
+            "Carbon Offsets": {
+                "Highest": 2300,
+                "Average": 2200,
+                "Lowest": 2100
+            }
+        },
+        {
+            "Year": 2022,
+            "Carbon Emissions": {
+                "Highest": 4400,
+                "Average": 4100,
+                "Lowest": 3800
+            },
+            "Carbon Offsets": {
+                "Highest": 2500,
+                "Average": 2400,
+                "Lowest": 2300
+            }
+        },
+        {
+            "Year": 2023,
+            "Carbon Emissions": {
+                "Highest": 4200,
+                "Average": 3900,
+                "Lowest": 3600
+            },
+            "Carbon Offsets": {
+                "Highest": 2700,
+                "Average": 2600,
+                "Lowest": 2500
+            }
+        }
+    ]
+}

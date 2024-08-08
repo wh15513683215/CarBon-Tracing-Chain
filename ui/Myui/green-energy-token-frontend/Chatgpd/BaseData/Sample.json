@@ -1,0 +1,18 @@
+{
+    "Industry": "Technology",
+    "Yearly Data": [
+        {
+            "Year": 2021,
+            "Carbon Emissions": {
+                "Highest": 4600,
+                "Average": 4300,
+                "Lowest": 4000
+            },
+            "Carbon Offsets": {
+                "Highest": 2300,
+                "Average": 2200,
+                "Lowest": 2100
+            }
+        }
+    ]
+}
